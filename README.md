@@ -61,7 +61,7 @@ To run this project locally, follow these steps:
 ## Usage
 1. **Run the Application**:
    ```
-   streamlit run dashboard.py
+   streamlit run src/dashboard.py
    ```
    This will launch the app in your default web browser (usually at http://localhost:8501).
 
