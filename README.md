@@ -1,5 +1,5 @@
 
-<img src="./images/1_kKrBYYaPTaSTOlOIfsC-6w11.png">
+<img src="./mini-project/images/1_kKrBYYaPTaSTOlOIfsC-6w11.png">
 <br><br><br>
 
 # Password Generator Python Project
