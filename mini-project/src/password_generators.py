@@ -1,3 +1,6 @@
+'''
+Mani Ajorloo
+'''
 import random
 import string
 from abc import ABC, abstractmethod
@@ -173,6 +176,7 @@ if __name__ == "__main__":
     p = gen.generate()
     print("random:", p)
     print("strength:", password_strength(p))
+
 
 
 
